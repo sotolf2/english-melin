@@ -25,8 +25,18 @@ The consonant clusters of Melin are basically briefs for common consonant cluste
 
 ### English specific clusters
 
-For writing English, there are some things about the system that is usually used for writing swedish, that we will have to adapt a bit for them to make sense, so here are some letter combinations that I've found very helpful for writing for myself.
+For writing English, there are some things about the system that is usually used for writing Swedish, that we will have to adapt a bit for them to make sense, so here are some letter combinations that I've found very helpful for writing for myself.
 ![English specific combinations](2020-06-30%2010-20.jpg)
+
+Here is the justification for the modified letters:
+
+* th is a half sized w since it's such a common letter, and it also bears a resemblence to a "softer" t sound
+* kj doesn't appear in english, and the sign is repurposed as ch
+* dge is an elongated j, to make it distinct from it and ch
+* ä the sound doesn't appear in english and is repurposed as ei
+* ai is a combination of a and j, to make it not grow so much vertically and still be comfortable and fast to write
+* kv doesn't exist in english, but the sound is very close to qu so it's repurposed as that
+* y in english is replacable with i since it doesn't use rounded lips like the scandinavian y, and this sign is therefore repurpoused as ou, as it looks like a modified å which ou sounds like a modified å :)
 
 
 ## Basic writing rules
@@ -60,13 +70,71 @@ Melin has quite a list of briefs, and mostly these are just taken from the swedi
 
 For some of the vowels that look strange to English people å, ö, ä these are the following sounds in English
 
- * å: ou in b**ou**ght and c**ou**ght, f**ou**ght. 
- * ö: ea in l**ear**n, e in st**e**rn, f**e**rn, u in b**u**rn
- * ä is not used in English and is rather used for the diphtong ei, like ai in f**ai**led, s**ai**led b**ai**l, or 
- * i is used for the ee cluster in English f**ee**l, st**ea**l, r**ea**l, k**ee**l, and also for other i sounds such as st**i**ll, f**i**ll, s**i**ll, m**i**ll etc.
- * ai, for the sound of I, buy, like, psyche (sajki) dyke, spike etc.
- * e for most e and schwa's r**ea**dy, l**ea**d (as in the metal) sp**e**d, cr**e**d, s**ai**d, f**e**d etc
- * ou is used for b**oa**t, fl**ou**t , m**o**le st**o**le
+ ### å: 
+ ou in b**ou**ght and c**ou**ght, f**ou**ght. 
  
+![bougnt caught, fought](bought_caught_fought.png)
+
+ ### ö: 
+ ea in l**ear**n, e in st**e**rn, f**e**rn, u in b**u**rn
  
+![learn stern fern burn](learn_stern_fern_burn.png)
+
+ ### ä:
+ is not used in English and is rather used for the diphtong ei
+ ai in f**ai**led, s**ai**led b**ai**l
  
+![failed sailed bail](failed_sailed_bail.png)
+
+ ### i: 
+ is used for the ee cluster in English f**ee**l, st**ea**l, r**ea**l, k**ee**l, 
+ ![feel steel reel keel](feel_steel_reel_keel.png)
+
+ and also for other i sounds such as st**i**ll, f**i**ll, s**i**ll, m**i**ll etc.
+![still fill sill mill](still_fill_sill_mill.png)
+
+ 
+ ### ai:
+ for the sound of I, buy, like, psyche (sajki) dyke, spike etc.
+ 
+![buy like psyche dyke spike](buy_like_psyche_dyke_spike.png)
+
+ ### e:
+ for most e and schwa's r**ea**dy, l**ea**d (as in the metal) sp**e**d, cr**e**d, s**ai**d, f**e**d etc
+ 
+![ready lead sped kred said fed](ready_lead_sped_kred_said_fed.png)
+
+ ### ou:
+ is used for b**oa**t, fl**ou**t , m**o**le st**o**le
+ 
+ ![boat flout mole stole](boat_flote_mole_stole.png)
+
+ 
+ ### u:
+ is used for oo s**oo**the, s**oo**t, f**oo**t, you, st**ew**, wh**o**
+ 
+![soothe soot foot you stew who](soothe_soot_foot_you_stew_who.png)
+
+## Sample breakdowns
+
+### Sample 1
+
+![qotd sample 1](qotd_sample1.jpg)
+
+#### Transliteration
+
+kemi-ST-ri s wel teknika-LY kemi-ST-ri s THE ST-ødi of mate BT i prefer TO s-EI THE ST-ødi of CH-EI-DG 
+
+#### Meaning
+
+Chemistry is, well technically chemistry is the study of matter, but I prefer to say the study of change.
+
+#### Points to ponder
+
+First of all, this is a real text written at speed, so proportions and things can be a bit off, but when you get used to reading it's almost just as easy and clear as my normal handwriting at least to read
+
+* c replaced with k, this is basically written phonetically
+* r on the left side after the st cluster since it has a hard foot
+* the brief for *the* is a short uptick in the upper part of the writing line
+* ei and i is some times kind of blending together when writing like here, but it's not that hard to get from context
+* change consist completely out of cluster letters, and it misses a bit of text, but it's essence is still there so it's still understandable.
