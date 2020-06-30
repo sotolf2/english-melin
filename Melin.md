@@ -123,11 +123,11 @@ For some of the vowels that look strange to English people å, ö, ä these are 
 
 #### Transliteration
 
-kemi-ST-ri s wel teknika-LY kemi-ST-ri s THE ST-ødi of mate BT i prefer TO s-EI THE ST-ødi of CH-EI-DG 
+kemi-ST-ri s wel teknika-LY kemi-ST-ri s THE ST-ødi of mate BT i prefer TO s-EI t as THE ST-ødi of CH-EI-DG 
 
 #### Meaning
 
-Chemistry is, well technically chemistry is the study of matter, but I prefer to say the study of change.
+Chemistry is, well technically chemistry is the study of matter, but I prefer to say it as the study of change.
 
 #### Points to ponder
 
