@@ -16,6 +16,10 @@ The Melin base alphabet like most germanic cursive shorthands are using a system
 
 This is the base alphabet for Melin, the one thing that I have a problem with here is the shading difference between v and w, but I tend to just write them both with the same glyph and I have not have any problems with it so far. There are a couple of things that you should keep in mind here, height and length are important for the letters, and it's something that can help you learn as well, letters that are similar often have similar glyphs, look at t and d for example, the **t** is just a half size **d**. This in theory would already make us able to write a bit more comfortably than our normal handwriting, but it would still be rather slow, so then we come to the next part
 
+#### Combining of letters "joins"
+
+When joining letters in Melin it can happen that a part of one character "eats" part of another one, this is the case when an e is followed by a G for example, the top part of the E becomes a part of the top loop of the G, so it can look like the preceding character is a bit shorter than it's supposed to be but it's just because of this phenomenon. Because of this, some times looking at the relation of the bottom of the characters can some times be more helpful than looking at the tops.
+
 ###  Consonant clusters
 
 
